@@ -1,0 +1,41 @@
+This file contains the features of the program.
+
+1. Number of Vowels
+
+2. Number of Each Vowel
+
+3. Case Insensitive
+
+4. have GUI
+
+5. Work on multiple platforms
+
+6 Count the number of words
+
+7 Frequency of each word
+
+7 Count number of phrases
+
+9 Count number of paragraphs
+
+10 Read text from a file , text or URL
+
+11 Number of consonant
+
+12 Number of Each consonant
+
+13 (experimental) Text title suggestion based on the most frequen words
+
+14 Text encryption/decryption
+
+15 Compare provide words/phase and count number of occurrances
+
+16 Filter words to uniquely count words greater or lesser than a number
+
+17 Same as 16 but for sentences
+
+18 Export to other file formats such as pdf, word, excel
+
+19 Skin/Theme
+
+20 Find and Replace tool
